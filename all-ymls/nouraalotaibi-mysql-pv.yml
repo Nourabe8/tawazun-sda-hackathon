@@ -5,11 +5,12 @@ metadata:
   labels:
     app: tawazun
     name: NouraAlotaibi
-    type: local
+
 spec:
-  storageClassName: manual
+
   capacity:
-    storage: 5Gi
+    storage: 2Gi
+  volumeModes: Filesystem 
   accessModes:
     - ReadWriteOnce
   hostPath:
