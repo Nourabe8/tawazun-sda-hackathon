@@ -16,7 +16,7 @@ spec:
         app: tawazun
     spec:
       containers:
-        - image: nourab/tawazun
+        - image: nourab/twazun
           name: tawazun
           env:
             - name: DB_URL
