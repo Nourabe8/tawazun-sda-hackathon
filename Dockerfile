@@ -1,5 +1,5 @@
 FROM maven:3.8.6-openjdk-11
-ENV DB_URL=localhost
+ENV DB_URL=db-cont
 ENV DB_PORT=3306
 ENV DB_NAME=tawazun 
 ENV DB_USERNAME=root
