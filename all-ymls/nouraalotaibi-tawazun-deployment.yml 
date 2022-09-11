@@ -16,7 +16,7 @@ spec:
         app: tawazun
     spec:
       containers:
-        - image: nourab/twazun
+        - image: raghaddevops/tawazun-sda:1.0
           name: tawazun
           env:
             - name: DB_URL
