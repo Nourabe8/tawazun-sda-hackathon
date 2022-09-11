@@ -10,4 +10,4 @@ RUN ["/usr/local/bin/mvn-entrypoint.sh","mvn","verify","clean","--fail-never"]
 COPY . .
 RUN mvn package
 EXPOSE 8080
-ENTRYPOINT ["java","-jar","target/hackthon_project-0.0.1-SNAPSHOT.war"]
+ENTRYPOINT ["java","-jar","target/tawazun.war"]
