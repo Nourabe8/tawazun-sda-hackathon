@@ -7,10 +7,9 @@ metadata:
     name: NouraAlotaibi
 
 spec:
-
+  storageClassName: manual
   capacity:
-    storage: 2Gi
-  volumeModes: Filesystem 
+    storage: 5Gi
   accessModes:
     - ReadWriteOnce
   hostPath:
