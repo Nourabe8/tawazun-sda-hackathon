@@ -4,7 +4,7 @@ metadata:
   name: tawazun
   labels:
     app: tawazun
-    name: Noura Alotaibi
+    name: NouraAlotaibi
 spec:
   replicas: 1 
   selector:

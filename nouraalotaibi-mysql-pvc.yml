@@ -4,7 +4,7 @@ metadata:
   name: mysql-pv-claim
   labels:
       app: tawazun
-      name: Noura Alotaibi
+      name: NouraAlotaibi
 spec:
   storageClassName: manual
   accessModes:

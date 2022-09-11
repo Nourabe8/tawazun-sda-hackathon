@@ -4,7 +4,7 @@ metadata:
   name: mysql-pv
   labels:
     app: tawazun
-    name: Noura Alotaibi
+    name: NouraAlotaibi
     type: local
 spec:
   storageClassName: manual

@@ -4,7 +4,7 @@ metadata:
   name: mysql
   labels:
     app: tawazun
-    name: Noura Alotaibi
+    name: NouraAlotaibi
 spec:
  selector:
     app: mysql
