@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.FahadMVC.pro</groupId>
-	<artifactId>login</artifactId>
+	<artifactId>hackthon_project</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>hackthon_project</name>
